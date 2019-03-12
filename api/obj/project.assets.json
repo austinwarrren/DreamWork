@@ -11798,11 +11798,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Austin\\Source\\Repos\\Dreamwork\\Dreamwork.csproj",
+      "projectUniqueName": "c:\\Users\\Austin\\Source\\Repos\\Dreamwork\\api\\Dreamwork.csproj",
       "projectName": "Dreamwork",
-      "projectPath": "C:\\Users\\Austin\\Source\\Repos\\Dreamwork\\Dreamwork.csproj",
+      "projectPath": "c:\\Users\\Austin\\Source\\Repos\\Dreamwork\\api\\Dreamwork.csproj",
       "packagesPath": "C:\\Users\\Austin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Austin\\Source\\Repos\\Dreamwork\\obj\\",
+      "outputPath": "c:\\Users\\Austin\\Source\\Repos\\Dreamwork\\api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
